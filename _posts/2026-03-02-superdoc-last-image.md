@@ -260,5 +260,3 @@ Editor-specific bugs often come from structural assumptions the spec makes but W
 This bug is still unresolved. But the debugging journey itself surfaced important learnings about DOCX internals, rendering engine strictness, and real-world document pipelines.
 
 If you've encountered similar behaviour with DOCX image rendering, I'd genuinely like to hear what you found.
-
-```
